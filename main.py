@@ -5,7 +5,7 @@ from GA import optimize
 
 
 population_size = 24                                                
-iteration_number = 10
+iteration_number = 100
 csv_address1 = "100.txt"
 csv_address2 = "250.txt"
 csv_address3 = "500.txt"
