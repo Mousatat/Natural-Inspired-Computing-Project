@@ -1,5 +1,5 @@
 # Quantum-Inspired-Evolutionary-Algorithm-Knapsack problem
-topic: Applications of Artificial intelligence and quantum computing
+Topic: Applications of Artificial intelligence and quantum computing
 
 This repository is based on the paper Quantum-inspired evolutionary algorithm for a class of combinatorial
 optimization by Kuk-Hyun Han and Jong-Hwan Kim.
